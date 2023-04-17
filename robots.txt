@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://matty-plumski.github.io/another_SNAP/sitemap.xml
